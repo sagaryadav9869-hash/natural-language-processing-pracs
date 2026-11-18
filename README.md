@@ -1,5 +1,8 @@
 Natural Language Processing Practicals
 Lab practicals for the Natural Language Processing course, implemented in Python using NLTK, spaCy, Scikit-Learn, BeautifulSoup and WordCloud.
+
+Natural Language Processing Practicals
+Lab practicals for the Natural Language Processing course, implemented in Python using NLTK, spaCy, Scikit-Learn, BeautifulSoup and WordCloud.
 #	Practical	Libraries	Concepts Covered
 1	Tokenization, Script Detection and Web Scraping
 NLTK, Requests, BeautifulSoup	Sentence Tokenization, Word Tokenization, Script Validation, Web Scraping
