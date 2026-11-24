@@ -20,7 +20,7 @@ Natural Language Processing practicals implemented in Python with NLTK, spaCy an
 Outputs
 The practical reports contain source code, outputs, screenshots, and explanations for each NLP concept.
 
-Topics Covered
+Topics Covered 
 Tokenization
 Stopword Removal
 Stemming
