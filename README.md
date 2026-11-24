@@ -17,5 +17,44 @@ Natural Language Processing practicals implemented in Python with NLTK, spaCy an
 | 7A | Word Cloud from a CSV File | [Practical_7A_WordCloud_from_CSV.pdf](Practical_7A_WordCloud_from_CSV.pdf) |
 | 7B | Word Cloud from Text | [Practical_7B_WordCloud_from_Text.pdf](Practical_7B_WordCloud_from_Text.pdf) |
 
-## Tools
-Python 3, Jupyter Notebook, NLTK, spaCy, scikit-learn, pandas, WordCloud, Matplotlib
+Outputs
+The practical reports contain source code, outputs, screenshots, and explanations for each NLP concept.
+
+Topics Covered
+Tokenization
+Stopword Removal
+Stemming
+Lemmatization
+Morphological Analysis
+Corpus Processing
+Word Generation
+N-Grams
+Part-of-Speech Tagging
+Named Entity Recognition
+Semantic Analysis
+Text Similarity
+Word Clouds
+Web Scraping
+How to Run
+git clone <this-repo-url>
+cd nlp-practicals
+
+pip install nltk
+pip install spacy
+pip install scikit-learn
+pip install beautifulsoup4
+pip install requests
+pip install wordcloud
+pip install matplotlib
+Author
+Sagar Yadav
+
+Tools Used
+Python
+NLTK
+spaCy
+Scikit-Learn
+BeautifulSoup
+Requests
+WordCloud
+Matplotlib
