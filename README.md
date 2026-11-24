@@ -16,6 +16,7 @@ Natural Language Processing practicals implemented in Python with NLTK, spaCy an
 | 6B | WordNet: Synsets, Synonyms, Antonyms, Hypernyms and Hyponyms | [Practical_6B_WordNet_Relations.pdf](Practical_6B_WordNet_Relations.pdf) |
 | 7A | Word Cloud from a CSV File | [Practical_7A_WordCloud_from_CSV.pdf](Practical_7A_WordCloud_from_CSV.pdf) |
 | 7B | Word Cloud from Text | [Practical_7B_WordCloud_from_Text.pdf](Practical_7B_WordCloud_from_Text.pdf) |
+
 Outputs
 The practical reports contain source code, outputs, screenshots, and explanations for each NLP concept.
 Topics Covered
